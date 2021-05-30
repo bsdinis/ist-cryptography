@@ -1,0 +1,14 @@
+[package]
+name = "ppso"
+version = "0.1.0"
+authors = ["Baltasar Dinis <baltasar.dinis@tecnico.ulisboa.pt", "João Borges <joao.p.l.borges@tecnico.ulisboa.pt>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+paillier-common = "0.1.1"
+polynomials = "0.2.4"
+crc = "2.0"
+rand = "0.8.3"
